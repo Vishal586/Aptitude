@@ -5,34 +5,6 @@ This repository is designed to help students and professionals systematically ma
 
 Each chapter covers theory, solved examples, and practice questions to strengthen your problem-solving ability.
 
----
-
-## 📂 Repository Structure
-
-Each chapter is uploaded in a separate folder with explanations and practice problems.
-
-Aptitude-Series/
-├── 01_Number_System/
-│ ├── Notes.md
-│ ├── Examples.md
-│ └── Practice_Questions.md
-├── 02_Percentage/
-│ ├── Notes.md
-│ ├── Examples.md
-│ └── Practice_Questions.md
-├── 03_Profit_and_Loss/
-│ ├── Notes.md
-│ ├── Examples.md
-│ └── Practice_Questions.md
-└── ...
-
-yaml
-Copy code
-
-> 📁 **Naming Convention:**  
-> Each topic folder starts with a number to indicate its order in the series (e.g., `01_`, `02_`, `03_`).
-
----
 
 ## 🧠 Topics Covered (Updated Regularly)
 

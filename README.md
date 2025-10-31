@@ -54,39 +54,12 @@ Prepare efficiently for placement exams, CAT, GATE, SSC, and other competitive t
 
 Improve analytical and logical thinking.
 
-💡 Contribution
-Want to contribute? Here’s how you can help:
-
-Add new chapters or missing topics.
-
-Improve explanations or formatting.
-
-Add new practice questions or alternative solutions.
-
-To contribute:
-
-Fork this repository.
-
-Make your changes in a new branch.
-
-Submit a pull request.
 
 🧭 Future Additions
-🎥 Video explanations
-
 🧾 PDF Notes for revision
-
-💻 Interactive quizzes
-
-📊 Difficulty tagging (Easy / Medium / Hard)
 
 🧑‍💻 Author
 Vishal Kumar
-📧 [your.email@example.com]
-🌐 [Your LinkedIn / Portfolio link]
-
-📜 License
-This project is licensed under the MIT License — you’re free to use, modify, and share with attribution.
 
 ⭐ If you find this repository helpful, don’t forget to star it!
 Let's make aptitude learning structured and fun 🚀

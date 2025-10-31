@@ -6,7 +6,7 @@ This repository is designed to help students and professionals systematically ma
 Each chapter covers theory, solved examples, and practice questions to strengthen your problem-solving ability.
 
 
-## 🧠 Topics Covered (Updated Regularly)
+## 🧠 Topics to be covered (Updated Regularly)
 
 1. Number System  
 2. Percentage  
